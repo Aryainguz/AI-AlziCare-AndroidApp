@@ -1,9 +1,5 @@
 **Alzheimer's AI Companion**
 
-![Alzheimer's AI Companion Logo](https://example.com/logo.png)
-
----
-
 **Description:**
 
 The Alzheimer's AI Companion is an open-source application designed to provide support and assistance to individuals affected by Alzheimer's disease and their caregivers. Leveraging the power of artificial intelligence, this app aims to enhance the quality of life for those navigating the challenges of Alzheimer's by offering personalized assistance, memory support, and engaging activities.
